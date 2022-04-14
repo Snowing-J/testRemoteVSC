@@ -1,0 +1,1 @@
+/tmp/tmp.f1xmjqQqIH/cmake-build-debug/CMakeFiles/testRemoteVSC.dir
