@@ -8,5 +8,6 @@ int main() {
     std::cout << "get a:" << a << std::endl;
     std::cout << "get b:" << b << std::endl;
     std::cout << "get c:" << c << std::endl;
+    std::cout << "get c:" << c << std::endl;
     return 0;
 }
