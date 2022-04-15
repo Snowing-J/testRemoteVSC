@@ -7,6 +7,9 @@ int main() {
     std::cout << "get a:" << a << std::endl;
     std::cout << "get b:" << b << std::endl;
 
+
+
+    int c = 2;
     return 0;
 
 
